@@ -24,7 +24,15 @@ A GitHub MCP (Model Context Protocol) server written in Go that lets AI assistan
 
 Create one at: https://github.com/settings/tokens
 
-## Build
+## Install
+
+```bash
+go install github.com/Stevke7/github-mcp@latest
+```
+
+This will install the binary to your `$GOPATH/bin` directory.
+
+## Build from source
 
 ```bash
 git clone https://github.com/Stevke7/github-mcp.git
