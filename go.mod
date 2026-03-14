@@ -1,4 +1,4 @@
-module github-mcp
+module github.com/Stevke7/github-mcp
 
 go 1.25.0
 
